@@ -5,6 +5,6 @@ public class t2p14 {
   public static void main(String[] args) {
     System.out.print("Write your number: ");
     int a = reader.nextInt();
-    System.out.printf("Result = %d\n", a * 10);
+    System.out.printf("Result = %d\n", a + 10);
   }
 }
