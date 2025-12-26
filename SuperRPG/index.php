@@ -8,7 +8,9 @@
 </head>
 <body>
     <div class="game">
-        
+        <div class="game-field">
+            
+        </div>
     </div>
     <script src="./main.js"></script>
 </body>
