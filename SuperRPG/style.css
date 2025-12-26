@@ -1,3 +1,9 @@
 .game {
     display: flex;
 }
+
+.game-field {
+    width: 700px;
+    height: 690px;
+    display: flex;
+}
