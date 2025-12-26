@@ -7,7 +7,9 @@
     <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-
+    <div class="game">
+        
+    </div>
     <script src="./main.js"></script>
 </body>
 </html>
