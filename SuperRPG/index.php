@@ -8,8 +8,8 @@
 </head>
 <body>
     <div class="game">
+        <h1 class="game__title">Super RPG</h1>
         <div class="game-field">
-            
         </div>
     </div>
     <script src="./main.js"></script>
