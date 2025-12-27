@@ -10,7 +10,7 @@
     <div class="game">
         <h1 class="game__title">Super RPG</h1>
         <div class="stats">
-            
+            <div class="stats__item"></div>
         </div>
         <div class="game-field">
         </div>
