@@ -15,7 +15,7 @@
                 <span class="stats__value"></span>
             </div>
             <div class="stats__item">
-                
+                <span class="stats__label"></span>
             </div>
         </div>
         <div class="game-field">
