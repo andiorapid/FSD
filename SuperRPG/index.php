@@ -11,7 +11,7 @@
         <h1 class="game__title">Super RPG</h1>
         <div class="stats">
             <div class="stats__item">
-                <span class="stats__label"></span>
+                <span class="stats__label">Hit Points</span>
                 <span class="stats__value"></span>
             </div>
         </div>
