@@ -20,6 +20,9 @@
             <div class="stats__item">
                 <span class="stats__label">Gold</span>
             </div>
+            <div class="stats__item">
+                
+            </div>
         </div>
         <div class="game-field">
         </div>
