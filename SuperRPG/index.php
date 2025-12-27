@@ -14,6 +14,9 @@
                 <span class="stats__label">Hit Points</span>
                 <span class="stats__value"></span>
             </div>
+            <div class="stats__item">
+                
+            </div>
         </div>
         <div class="game-field">
         </div>
