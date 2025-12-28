@@ -16,7 +16,7 @@
             </div>
             <div class="stats__item">
                 <span class="stats__label">Experience</span>
-                <span class="stats__value"></span>
+                <span class="stats__value">0</span>
             </div>
             <div class="stats__item">
                 <span class="stats__label">Gold</span>
