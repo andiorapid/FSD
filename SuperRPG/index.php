@@ -12,7 +12,7 @@
         <div class="stats">
             <div class="stats__item">
                 <span class="stats__label">Hit Points</span>
-                <span class="stats__value"></span>
+                <span class="stats__value">100</span>
             </div>
             <div class="stats__item">
                 <span class="stats__label">Experience</span>
